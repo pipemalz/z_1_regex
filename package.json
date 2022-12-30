@@ -1,0 +1,23 @@
+{
+  "name": "z_1_regex",
+  "version": "1.0.0",
+  "description": "Cursos de expresiones regulares",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pipemalz/z_1_regex.git"
+  },
+  "keywords": [
+    "regex",
+    "javascript"
+  ],
+  "author": "Felipe Moreno aka pipemalz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pipemalz/z_1_regex/issues"
+  },
+  "homepage": "https://github.com/pipemalz/z_1_regex#readme"
+}
